@@ -1,0 +1,17 @@
+name: form_fields
+publish_to: none
+
+environment:
+  sdk: ">=2.13.0 <3.0.0"
+
+dependencies:
+  intl:
+  formz: ^0.4.1
+  equatable: ^2.0.3
+  intl_phone_field: ^3.1.0
+  dropdown_textfield: ^1.2.0
+
+
+dev_dependencies:
+  lints: ^1.0.1
+  test: ^1.16.8
