@@ -29,7 +29,6 @@ Here’s a demonstration of how the Kafiil application works:
 
 <img src="screen_shots/kafiil.gif" alt="Kafiil Demo" width="300" height="500">
 
-*Note: Replace `path/to/your/demo.gif` with the actual path to your GIF file.*
 
 ## API Endpoints
 
